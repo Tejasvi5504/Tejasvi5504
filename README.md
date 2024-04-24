@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **object oriented programming on c++,DSA**
 
-- 🤝 I’m looking for help with **DSA,ARTIFICIAL INTELLIGENCE,MACHINE LEARNING**
+- 🤝 I’m looking for help with **DSA,DATA SCIENCE,DEVELOPMENT**
 
 - 📫 How to reach me **tejasvisainikkr@gmail.com**
 

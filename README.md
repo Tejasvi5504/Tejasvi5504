@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvi5504&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvi5504" /> </p>
 
-- 🌱 I’m currently learning **object oriented programming on c++,DSA**
+- 🌱 I’m currently learning **Full stack development & understanding DSA**
 
 - 🤝 I’m looking for help with **DSA,DATA SCIENCE,DEVELOPMENT**
 

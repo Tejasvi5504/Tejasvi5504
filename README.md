@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full stack development & understanding DSA**
 
-- 🤝 I’m looking for help with **DSA,DATA SCIENCE,DEVELOPMENT**
-
 - 📫 How to reach me **tejasvisainikkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
